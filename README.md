@@ -1,4 +1,22 @@
+# cw20-token-testnet
+Deployed CW20 fungible token on Cosmos theta-testnet for Ctrl Alt portfolio.
 
+## Token Standard
+CW20 = Cosmos equivalent of ERC-20. Used for fungible asset representation. 
+Why: Maps directly to Ctrl Alt’s "tokenization of real estate, funds, private credit"
+
+## Contract Details
+Name: CtrlAltTest | Symbol: CAT | Decimals: 6
+Contract Address: cosmos1...abc123 
+Explorer: https://explorer.theta-testnet.polypore.xyz/cosmwasm/cosmos1...abc123
+
+## Auditability
+1. Source: CosmWasm cw-plus v1.1.2 - audited base contract
+2. Immutable on testnet. Instantiate msg logged on-chain.
+3. Verified via Mintscan.
+
+## How to Test
+Send CAT to another testnet address using Keplr.
 # Cosmos Wallet Checker
 Built on Replit + Phone. Part of Blockchain Engineer portfolio for Ctrl Alt.
 
