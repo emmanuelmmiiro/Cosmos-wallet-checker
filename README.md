@@ -15,3 +15,9 @@ Why: Matches Ctrl Alt’s multi-chain architecture requirement.
 
 ## Security
 No private keys stored. Read-only RPC calls only. .env used for endpoints.
+
+## Why This Matters for Tokenization
+This app proves I can:
+1. Query multi-chain L1 data reliably - core to Ctrl Alt’s multi-chain architecture
+2. Build auditable UIs for financial data - balances, delegations, rewards = asset state
+3. Use public REST + no secrets - matches regulated, compliant infra requirements
