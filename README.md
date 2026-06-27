@@ -10,7 +10,7 @@ Frontend: React/TS. Backend: Cosmos RPC via cosmjs.
 Why: Matches Ctrl Alt’s multi-chain architecture requirement.
 
 ## How to Run
-1. Open: [Replit Live URL] 
+1. Open: (https://7e04d47b-5a87-471c-999f-7d90df2e4c2e-00-3p1fm1zy5ub.picard.replit.dev) 
 2. Paste Cosmos address → Click "Check Wallet"
 
 ## Security
